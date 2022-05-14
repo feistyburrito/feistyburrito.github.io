@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+body{
+    padding: 50px;
+    padding-top: 10px;
+    
+}
+#my-name{
+    margin-bottom: 5px;
+    
+}
+#content{
+    margin-top: 150px;
+}
+#title{
+    margin-bottom: 15px;
+}
+#contact-form{
+    background-color: aqua;
+    padding: 20px;
+    margin-top: 25px;
+}
+
+#floated {
+    float: right;
+    width: 300px;
+    padding-left: 5px;
+}
